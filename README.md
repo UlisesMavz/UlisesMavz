@@ -1,12 +1,5 @@
 # 🐺 Hello! I'm Ulises Marín Vázquez
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=🦅+Computer+Science+Engineer;🐻+ESIME-IPN+Student;🦊+C%23+and+C%2B%2B+Programming)](https://git.io/typing-svg)
-
-
-</div>
-
 ## 🎯 About Me
 
 > *"I'm passionate about technology and programming. I'm self-taught, I love constantly learning, and I give my best to the biggest challenges."*
