@@ -4,24 +4,6 @@
 
 > *"I'm passionate about technology and programming. I'm self-taught, I love constantly learning, and I give my best to the biggest challenges."*
 
-### 🦅 What I Do
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((🦅 My Skills))
-    🔹 Programming
-      C# Development
-      C++ Applications
-    🔹 Solutions
-      Robust Software
-      Clean Architecture
-    🔹 Growth
-      New Technologies
-      Continuous Learning
-```
-
 </div>
 
 <table align="center">
